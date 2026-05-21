@@ -1,6 +1,6 @@
 # Hey, I'm Chad 👋
 
-I'm the founder and CEO of [**Pearch**](https://pearch.app) — an AI-powered Chrome extension that scores products as you shop, so you stop opening 40 tabs to decide on a $30 purchase. I built it solo: code, design, AI integration, GTM.
+I'm the founder and CEO of [**Pearch**](https://pearch.app) — an AI-powered Chrome & Firefox extension that scores products as you shop on Amazon, so you stop opening 40 tabs to decide on a $30 purchase. I built it solo: code, design, AI integration, GTM.
 
 Before Pearch, I spent 13+ years leading partnerships and business development at venture-backed companies — most recently Alison.ai, before that Nextdoor and Amobee.
 
@@ -21,13 +21,13 @@ Before Pearch, I spent 13+ years leading partnerships and business development a
 
 - **13+ years in GTM, partnerships, and BD** at venture-backed companies
 - **Founder-operator** — every commit on this graph is mine
-- **AI-native builder** — shipping production features on Claude, GPT, and custom pipelines
+- **AI-native builder** — shipping production features on Claude, GPT, Gemini, DeepSeek and custom pipelines
 - **LvlUp** + **UCLA Anderson Accelerator** alum
 - Speaker at Plug and Play and other startup events
 
 ## How I build
 
-TypeScript and Node across the stack. LLM integrations via the Anthropic and OpenAI APIs. Chrome extension architecture, custom scoring pipelines, and n8n for workflow automation. Heavy Claude Code user — the graph below tells the rest of the story.
+TypeScript and Node across the stack. LLM integrations via the Anthropic and OpenAI APIs. Chrome extension architecture, custom scoring pipelines, and n8n for workflow automation.
 
 ## Let's talk
 
